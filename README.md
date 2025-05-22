@@ -1,11 +1,14 @@
-# KwaiMM-Dialogue
+# KwaiMM-Dialogue: A Collection of Datasets for Evaluating and Generating Multimodal Interactions
 
-A Collection of Datasets for Evaluating and Generating Multimodal Interactions
+<p align="center">
+    <img src="static/images/logo.png" width="25%" height="25%">
+</p>
+
+<font size=7><div align='center' > [[🍎 Project Page](https://stan-lei.github.io/KwaiMM-Dialogue/)] [[📖 KwaiChat](https://arxiv.org/abs/2503.06899)] [[📖 Seriesbench](https://arxiv.org/abs/2504.21435)] [[📖 GODBench](https://arxiv.org/abs/2505.11436)] </div></font>
 
 ## Introduction of the Project
 
-Multimodal Large Language Models (MLLMs) have achieved notable advancements in tasks such as image captioning, video understanding, and vision-language dialogue, benefiting from unified semantic representations across modalities.  
-Despite this progress, short video platforms present distinct challenges—frequent user interaction, code-switching, rapid scene transitions, and blended reposting patterns—that are insufficiently addressed by current benchmarks.
+Multimodal Large Language Models (MLLMs) have achieved notable advancements in tasks such as image captioning, video understanding, and vision-language dialogue, benefiting from unified semantic representations across modalities. Despite this progress, short video platforms present distinct challenges—frequent user interaction, code-switching, rapid scene transitions, and blended reposting patterns—that are insufficiently addressed by current benchmarks.
 
 To better support modeling in these dynamic scenarios, we introduce a systematic framework for evaluating and improving MLLM capabilities in short video contexts, centered around three key benchmarks:
 
